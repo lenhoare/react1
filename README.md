@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Basic react app to run locally andthrough cloudflare tunnel
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
